@@ -15,7 +15,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "65528aa2a6ac103077c0ff236bed431f
 "assets/assets/images/instagram.png": "c7e015810c454ea80d3978c115411727",
 "assets/assets/images/tik-tok.png": "f6d4517e1cc1297564ab25b01415835b",
 "assets/FontManifest.json": "fdb16fa5a241f69713c054de19a9ca3f",
-"assets/fonts/MaterialIcons-Regular.otf": "08f007fe5a910eec4fae29336fa91534",
+"assets/fonts/MaterialIcons-Regular.otf": "6cd4a98f44e02df758af8a06e3da70c4",
 "assets/NOTICES": "d8d54e18d1263407b4587e2c1f4168d5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
@@ -55,9 +55,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "65528aa2a6ac103077c0ff236bed431f
 "icons/Icon-512.png": "dc0fa557ebd8486aa09c3edc51f3aee8",
 "icons/Icon-maskable-192.png": "89dc79295c52fd1d8b4634920ed67479",
 "icons/Icon-maskable-512.png": "dc0fa557ebd8486aa09c3edc51f3aee8",
-"index.html": "a4b7fa4f6c110f1e137729ea9fc2e035",
-"/": "a4b7fa4f6c110f1e137729ea9fc2e035",
-"main.dart.js": "1c3aea064689bf97820c8e0fe16a4cf5",
+"index.html": "f226a3bf79f19324f38bfa2a62eaa4e2",
+"/": "f226a3bf79f19324f38bfa2a62eaa4e2",
+"main.dart.js": "4cb5fd41a100ec5858c0901cfb9f46b9",
 "manifest.json": "f5190cdcbc645b9d24f0914f646992b2",
 "version.json": "2c1f3e8ba61d826b54e449bb5deb99e3"};
 // The application shell files that are downloaded before a service worker can
